@@ -42,3 +42,8 @@ Porting games on Unity from PC to Nintendo Switch, Playstation 5 (Retro w/ ps4) 
 | ✅ Done | [Confessions](https://github.com/TiagoRCunha/Confessions) | A small project to learn Next.js and deployment with Netlify. A website where people can share phrases anonymously (Closed). |
 
 ## :triangular_flag_on_post: Contact
+
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/tiago_thithi/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tiago-rodrigues-cunha/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tiago.r.c.sn@gmail.com)
+
