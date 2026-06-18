@@ -41,6 +41,15 @@ Porting games on Unity from PC to Nintendo Switch, Playstation 5 (Retro w/ ps4) 
 | ✅ Done | [Dummy Fight](https://github.com/TiagoRCunha/DummyFight_TCC_SENAI) | A project for my technical degree from SENAI that uses Unity, RESTful API with C# and .NET, and frontend with React and TypeScript. The main goal is to achieve mastery of Domain-Driven Design (DDD) on both frontend and backend (link goes to the docs repo). |
 | ✅ Done | [Confessions](https://github.com/TiagoRCunha/Confessions) | A small project to learn Next.js and deployment with Netlify. A website where people can share phrases anonymously (Closed). |
 
+## :part_alternation_mark: Stats for nerds
+
+![TiagoRCunha](https://github-readme-stats.vercel.app/api?username=TiagoRCunha&show_icons=true&theme=radical)
+
+![TiagoRCunha](https://streak-stats.demolab.com/?user=TiagoRCunha&border_radius=6&theme=radical)
+
+![TiagoRCunha](https://github-readme-stats.vercel.app/api/top-langs/?username=TiagoRCunha&show_icons=true&theme=radical)
+
+
 ## :triangular_flag_on_post: Contact
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/tiago_thithi/)
